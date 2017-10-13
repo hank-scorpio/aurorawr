@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializableModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <tasks>
+    <tasks>
+      <Task>
+        <blocks />
+        <tabs>
+          <DocumentTab>
+            <name>TileRank.cs</name>
+            <path>Net.Things.NanoLeaf\Model\TileRank.cs</path>
+            <absolutePath>C:\Users\phil\documents\visual studio 2017\Projects\Aurorawr\Net.Things.NanoLeaf\Model\TileRank.cs</absolutePath>
+            <position>
+              <line>8</line>
+              <column>2</column>
+              <lineHash>wgSXLuLc48zpVf76+uxWy+jjHc5s0PxAdoJSkTVK+4A=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>MyTileStreamer.cs</name>
+            <path>tests\mytilestreamer.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\tests\mytilestreamer.cs</absolutePath>
+            <position>
+              <line>25</line>
+              <column>15</column>
+              <lineHash>SdfNHLDZEYkYR6U5jR/vVghq687ZJbTjiKICEVA98E4=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>CameraBlockStreamer.cs</name>
+            <path>Tests\CameraBlockStreamer.cs</path>
+            <absolutePath>C:\Users\phil\documents\visual studio 2017\Projects\Aurorawr\Tests\CameraBlockStreamer.cs</absolutePath>
+            <position>
+              <line>97</line>
+              <column>6</column>
+              <lineHash>Z9muQE1OiSQyXdIgcvfIFx+4y3V52tR8FKfUBCmQWxw=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Aurora.cs</name>
+            <path>net.things.nanoleaf\client\aurora.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\net.things.nanoleaf\client\aurora.cs</absolutePath>
+            <position>
+              <line>19</line>
+              <column>6</column>
+              <lineHash>Z9muQE1OiSQyXdIgcvfIFx+4y3V52tR8FKfUBCmQWxw=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Layout.cs</name>
+            <path>net.things.nanoleaf\model\layout.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\net.things.nanoleaf\model\layout.cs</absolutePath>
+            <position>
+              <line>53</line>
+              <column>16</column>
+              <lineHash>w0VIZqCVjahQE/Z1UGBMBwmULvhkuyOMshO9ad81Gvg=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>TileGrid.cs</name>
+            <path>net.things.nanoleaf\model\tilegrid.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\net.things.nanoleaf\model\tilegrid.cs</absolutePath>
+            <position>
+              <line>12</line>
+              <column>20</column>
+              <lineHash>X9zxcEiUyaLGUtQZAn+8Klk/8BOovLrCm/z5/GtDUN0=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>AuroraUdpStreamer.cs</name>
+            <path>net.things.nanoleaf\client\auroraudpstreamer.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\net.things.nanoleaf\client\auroraudpstreamer.cs</absolutePath>
+            <position>
+              <line>34</line>
+              <column>51</column>
+              <lineHash>aBg6PmncQRNQvb0dpH/LailGRYq9+I1BNs4Wpehh2ZY=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>ITileStreamer.cs</name>
+            <path>net.things.nanoleaf\client\itilestreamer.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\net.things.nanoleaf\client\itilestreamer.cs</absolutePath>
+            <position>
+              <line>19</line>
+              <column>9</column>
+              <lineHash>QqKbj+5rvocuXtcf4j44LL8s8eXA5U069DrZfx/b/DI=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Tile.cs</name>
+            <path>net.things.nanoleaf\model\tile.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\net.things.nanoleaf\model\tile.cs</absolutePath>
+            <position>
+              <line>55</line>
+              <column>10</column>
+              <lineHash>ykKUv9CRqXFB28iGGHxkiLH9tlfMTvxW2qWsuJpGHLY=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>TileColor.cs</name>
+            <path>net.things.nanoleaf\model\tilecolor.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\net.things.nanoleaf\model\tilecolor.cs</absolutePath>
+            <position>
+              <line>23</line>
+              <column>9</column>
+              <lineHash>QqKbj+5rvocuXtcf4j44LL8s8eXA5U069DrZfx/b/DI=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>TileFrame.cs</name>
+            <path>net.things.nanoleaf\model\tileframe.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\net.things.nanoleaf\model\tileframe.cs</absolutePath>
+            <position>
+              <line>25</line>
+              <column>6</column>
+              <lineHash>Z9muQE1OiSQyXdIgcvfIFx+4y3V52tR8FKfUBCmQWxw=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>PeakSamples.cs</name>
+            <path>aurorawr\peaksamples.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\aurorawr\peaksamples.cs</absolutePath>
+            <position>
+              <line>15</line>
+              <column>1</column>
+              <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>AuroraClient.cs</name>
+            <path>net.things.nanoleaf\client\auroraclient.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\net.things.nanoleaf\client\auroraclient.cs</absolutePath>
+            <position>
+              <line>34</line>
+              <column>25</column>
+              <lineHash>VXJCDQIxXBiJvObaEUNSTsM6KyrhBZQ/RLq8x9lDiwY=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>TilePixel.cs</name>
+            <path>aurorawr\tilepixel.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\aurorawr\tilepixel.cs</absolutePath>
+            <position>
+              <line>71</line>
+              <column>53</column>
+              <lineHash>oP1Cnkc4tgHN5kFCrej0vFkfSYIAGVQ7ubpeF/Ax6Us=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>ApiTests.cs</name>
+            <path>tests\apitests.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorawr\tests\apitests.cs</absolutePath>
+            <position>
+              <line>25</line>
+              <column>19</column>
+              <lineHash>BUxBTIZGe2/3X9RWLJD95KN0a9mJBOfNUs7+JGGKn/o=</lineHash>
+            </position>
+          </DocumentTab>
+        </tabs>
+        <name>Misc</name>
+        <selectedBlock>-1</selectedBlock>
+        <selectedTab>-1</selectedTab>
+        <startupProjects />
+        <startupProjectsInitialized>false</startupProjectsInitialized>
+      </Task>
+    </tasks>
+    <selectedTask>0</selectedTask>
+  </tasks>
+</SerializableModel>
