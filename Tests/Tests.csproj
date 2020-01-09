@@ -108,7 +108,6 @@
     <Compile Include="ApiTests.cs" />
     <Compile Include="CameraBlockStreamer.cs" />
     <Compile Include="MyTileStreamer.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

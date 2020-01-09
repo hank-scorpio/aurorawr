@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializableModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <tasks>
+    <tasks>
+      <Task>
+        <blocks />
+        <tabs>
+          <DocumentTab>
+            <name>MainWindow.xaml</name>
+            <path>AForgeEnv\MainWindow.xaml</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\Projects\AForgeEnv\AForgeEnv\MainWindow.xaml</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>ourvpm7NQYPEYJlgKvc91ZaTucOz0buaQ7ebe8P/4TI=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>MainWindow.xaml.cs</name>
+            <path>AForgeEnv\MainWindow.xaml.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\Projects\AForgeEnv\AForgeEnv\MainWindow.xaml.cs</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>+C3wS7Ft5DyHeLCyPV9r1wsaOWkxFdQYa1IzhmbnvNw=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.cs [Design]</name>
+            <path>WindowsFormsApp1\Form1.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\Projects\AForgeEnv\WindowsFormsApp1\Form1.cs</absolutePath>
+            <viewKind>7651a702-06e5-11d1-8ebd-00a0c90f26ea</viewKind>
+            <position>
+              <line>40</line>
+              <column>39</column>
+              <lineHash>IPBPV1QvM8hUerXwUL2cgxvkMRhdLhpOu8cU7sGZnRI=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.Designer.cs</name>
+            <path>WindowsFormsApp1\Form1.Designer.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\Projects\AForgeEnv\WindowsFormsApp1\Form1.Designer.cs</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>xcHVNYF+B7j5MaorBL+03lRt7eSAa0lQuUQfhu1V7Gw=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Program.cs</name>
+            <path>WindowsFormsApp1\Program.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\Projects\AForgeEnv\WindowsFormsApp1\Program.cs</absolutePath>
+            <position>
+              <line>23</line>
+              <column>1</column>
+              <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Form1.cs</name>
+            <path>WindowsFormsApp1\Form1.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\Projects\AForgeEnv\WindowsFormsApp1\Form1.cs</absolutePath>
+            <position>
+              <line>40</line>
+              <column>39</column>
+              <lineHash>IPBPV1QvM8hUerXwUL2cgxvkMRhdLhpOu8cU7sGZnRI=</lineHash>
+            </position>
+          </DocumentTab>
+        </tabs>
+        <name>Misc</name>
+        <selectedBlock>-1</selectedBlock>
+        <selectedTab>-1</selectedTab>
+        <startupProjectsInitialized>false</startupProjectsInitialized>
+      </Task>
+    </tasks>
+    <selectedTask>0</selectedTask>
+  </tasks>
+</SerializableModel>

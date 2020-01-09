@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializableModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <tasks>
+    <tasks>
+      <Task>
+        <blocks />
+        <tabs>
+          <DocumentTab>
+            <name>panels.cshtml</name>
+            <path>AuroraSim\panels.cshtml</path>
+            <absolutePath>C:\Users\phil\Documents\Visual Studio 2017\Projects\AuroraSim\AuroraSim\panels.cshtml</absolutePath>
+            <position>
+              <line>31</line>
+              <column>1</column>
+              <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>IPanelsRenderer.cs</name>
+            <path>aurorasim\hub\ipanelsrenderer.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\hub\ipanelsrenderer.cs</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>doMFAGjbOu7uiJN9tt5UKFEvEPJsula2yaJW1o9yfPE=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>AuroraController.cs</name>
+            <path>aurorasim\hub\auroracontroller.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\hub\auroracontroller.cs</absolutePath>
+            <position>
+              <line>14</line>
+              <column>32</column>
+              <lineHash>dgbukDZDLDMmFEXqGIJ9eyjE3BUJPlZmitUH/wre8qs=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>PanelStreamer.cs</name>
+            <path>aurorasim\hub\panelstreamer.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\hub\panelstreamer.cs</absolutePath>
+            <position>
+              <line>22</line>
+              <column>1</column>
+              <lineHash>EWDNw/mA7paInThY7UJZK/Xsr7cC3dj49YtNX4PFJCo=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>PanelsRenderer.cs</name>
+            <path>aurorasim\hub\panelsrenderer.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\hub\panelsrenderer.cs</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>+C3wS7Ft5DyHeLCyPV9r1wsaOWkxFdQYa1IzhmbnvNw=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Panel.cs</name>
+            <path>aurorasim\hub\panel.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\hub\panel.cs</absolutePath>
+            <position>
+              <line>10</line>
+              <column>1</column>
+              <lineHash>zy45FC6vJ9e4b2mbFESNhj469Oatv+dNM5wFsid+zyc=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Startup.cs</name>
+            <path>aurorasim\startup.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\startup.cs</absolutePath>
+            <position>
+              <line>5</line>
+              <column>1</column>
+              <lineHash>ECtRuXZaVqPomffPDuOOUlH5xQOzV7MwpJGD63sVVgQ=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>PanelsRendererHub.cs</name>
+            <path>aurorasim\hub\panelsrendererhub.cs</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\hub\panelsrendererhub.cs</absolutePath>
+            <position>
+              <line>13</line>
+              <column>6</column>
+              <lineHash>Z9muQE1OiSQyXdIgcvfIFx+4y3V52tR8FKfUBCmQWxw=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>packages.config</name>
+            <path>aurorasim\packages.config</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\packages.config</absolutePath>
+            <position>
+              <line>18</line>
+              <column>12</column>
+              <lineHash>twDrGlfVUIs3cboI0dUVVnPGDILqfvfkhLZR9W0156U=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>Web.config</name>
+            <path>aurorasim\web.config</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\web.config</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>o9hcETEPo+iT/W1j87Ei0NXRonP9Iv7ti1RbsGFZ6Rg=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>jquery-3.1.1.js</name>
+            <path>aurorasim\scripts\jquery-3.1.1.js</path>
+            <absolutePath>c:\users\phil\documents\visual studio 2017\projects\aurorasim\aurorasim\scripts\jquery-3.1.1.js</absolutePath>
+            <position>
+              <line>22</line>
+              <column>52</column>
+            </position>
+          </DocumentTab>
+        </tabs>
+        <name>Misc</name>
+        <selectedBlock>-1</selectedBlock>
+        <selectedTab>-1</selectedTab>
+        <startupProjectsInitialized>false</startupProjectsInitialized>
+      </Task>
+    </tasks>
+    <selectedTask>0</selectedTask>
+  </tasks>
+</SerializableModel>
